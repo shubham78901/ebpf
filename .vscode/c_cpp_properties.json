@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "linux-clang-x64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "mergeConfigurations": false
+        }
+    ],
+    "version": 4
+}

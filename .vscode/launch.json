@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/home/vboxuser/Desktop/basic",
+      "program": "/home/vboxuser/Desktop/basic/build/Debug/outDebug"
+    }
+  ]
+}
